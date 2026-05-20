@@ -1,0 +1,21 @@
+export const tankSpecs: any = {
+  IMT: {
+    "550": { diameter: 60, height: 73 },
+    "1000": { diameter: 72, height: 87 },
+    "1050": { diameter: 72, height: 87 },
+    "1500": { diameter: 72, height: 123 },
+    "1550": { diameter: 72, height: 123 },
+    "2000": { diameter: 96, height: 119 },
+    "2100": { diameter: 123, height: 159 },
+    "2550": { diameter: 96, height: 119 },
+    "3000": { diameter: 96, height: 138 },
+    "3050": { diameter: 96, height: 138 },
+    "4050": { diameter: 96, height: 177 },
+    "4400": { diameter: 123, height: 177 },
+    "5250": { diameter: 119, height: 154 },
+    "5500": { diameter: 119, height: 154 },
+    "6550": { diameter: 119, height: 186 },
+    "8850": { diameter: 143, height: 173 },
+    "10000": { diameter: 143, height: 173 },
+  },
+};
